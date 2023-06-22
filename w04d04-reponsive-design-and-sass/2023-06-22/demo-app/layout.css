@@ -1,0 +1,54 @@
+h2 {
+  font-size: 42px;
+  text-decoration: underline;
+  color: yellow;
+  border: solid 4px hotpink;
+}
+
+div.content {
+  font-size: 20px;
+  margin: 15px;
+  display: flex;
+}
+div.content h2 {
+  text-decoration: underline;
+  flex-grow: 1;
+}
+div.content div {
+  font-size: 12px;
+  margin-bottom: 11px;
+}
+div.content div span {
+  color: orange;
+}
+
+.header-styles, .my-selector {
+  font-size: 12px;
+  text-transform: capitalize;
+}
+
+.my-selector {
+  color: blue;
+}
+
+.sm-square {
+  width: 50px;
+  height: 50px;
+  font-size: 15px;
+  color: green;
+  width: 500%;
+}
+
+.med-square {
+  width: 150px;
+  height: 150px;
+  font-size: 15px;
+  color: blue;
+}
+
+.lg-square {
+  width: 250px;
+  height: 250px;
+  font-size: 15px;
+  color: brown;
+}
