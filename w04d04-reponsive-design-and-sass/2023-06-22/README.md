@@ -2,15 +2,23 @@
 
 ### To Do
 
-- [x] Responsive Design
-- [x] Viewport Meta Tag
-- [x] Percentages
-- [x] `max-width` and `min-width`
-- [x] Viewport Height/Width `vh`/`vw`
-- [x] Based on Font-size `em`/`rem`
-- [x] Media Queries
-- [x] CSS Preprocessors
-- [x] Intro to Sass/SCSS
+#### Responsive Design
+- [ ] What is responsive design and why is it important? 🖥 -> 📱
+- [ ] The `viewport` meta tag
+- [ ] Working with relative measurements in CSS
+  - [ ] Percentages
+  - [ ] `max-width` and `min-width`
+  - [ ] Viewport Height/Width `vh`/`vw`
+  - [ ] Based on Font-size `em`/`rem`
+- [ ] Media queries 🤯
+
+#### Sass/SCSS
+- [ ] CSS Preprocessors 🏭
+- [ ] Intro to Sass/SCSS 👓
+  - [ ] Variables
+  - [ ] Partials
+  - [ ] Nesting
+  - [ ] Extensions and mixins
 
 ### Responsive Design
 
@@ -230,7 +238,8 @@ header {
 ### Useful Links
 
 - [MDN: CSS Preprocessor](https://developer.mozilla.org/en-US/docs/Glossary/CSS_preprocessor)
-- [What is the viewport?](https://www.w3schools.com/css/css_rwd_viewport.asp)
-- [W3 Schools: Meta Tags](https://www.w3schools.com/tags/tag_meta.asp)
+- [MDN: What is the viewport and the viewport meta tag?](https://developer.mozilla.org/en-US/docs/Web/HTML/Viewport_meta_tag)
 - [MDN: CSS Values and Units](https://developer.mozilla.org/en-US/docs/Learn/CSS/Building_blocks/Values_and_units)
+- [MDN: @media query options](https://developer.mozilla.org/en-US/docs/Web/CSS/@media#description)
+
 - [Sass CLI](https://sass-lang.com/documentation/cli/dart-sass)
