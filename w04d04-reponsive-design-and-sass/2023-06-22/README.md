@@ -3,22 +3,22 @@
 ### To Do
 
 #### Responsive Design
-- [ ] What is responsive design and why is it important? 🖥 -> 📱
-- [ ] The `viewport` meta tag
+- [x] What is responsive design and why is it important? 🖥 -> 📱
+- [x] The `viewport` meta tag
 - [ ] Working with relative measurements in CSS
-  - [ ] Percentages
-  - [ ] `max-width` and `min-width`
-  - [ ] Viewport Height/Width `vh`/`vw`
-  - [ ] Based on Font-size `em`/`rem`
-- [ ] Media queries 🤯
+  - [x] Percentages
+  - [x] `max-width` and `min-width`
+  - [x] Viewport Height/Width `vh`/`vw`
+  - [x] Based on Font-size `em`/`rem`
+- [x] Media queries 🤯
 
 #### Sass/SCSS
-- [ ] CSS Preprocessors 🏭
-- [ ] Intro to Sass/SCSS 👓
-  - [ ] Variables
-  - [ ] Partials
-  - [ ] Nesting
-  - [ ] Extensions and mixins
+- [x] CSS Preprocessors 🏭
+- [x] Intro to Sass/SCSS 👓
+  - [x] Variables
+  - [x] Partials
+  - [x] Nesting
+  - [x] Extensions and mixins
 
 ### Responsive Design
 

@@ -1,0 +1,29 @@
+.new-class {
+  background-color: yellow; }
+
+.new-class-2 {
+  background-color: yellow; }
+
+.new-class-3 {
+  background-color: yellow; }
+
+.content h2 div {
+  font-size: medium; }
+  .content h2 div span {
+    background-color: aqua; }
+
+.header-style, .my-selector {
+  text-transform: capitalize; }
+
+.my-selector {
+  color: blue; }
+
+.small-square {
+  width: 50;
+  height: 50; }
+
+.medium-square {
+  width: 150;
+  height: 150; }
+
+/*# sourceMappingURL=layout.css.map */

@@ -3,7 +3,7 @@
 }
 
 html {
-  font-size: 24px;
+  font-size: 10px;
 }
 
 body {
@@ -19,12 +19,14 @@ header {
 
 section {
   border: 2px solid black;
-  font-size: 15px;
+  font-size: 16px;
 }
 
 section div {
-  height: 150px;
-  width: 200px;
+  height: 25vh;
+  width: 10rem;
+  min-width: 100px;
+  max-width: 200px;
   margin: 20px;
   line-height: 150px;
   display: inline-block;
@@ -35,4 +37,28 @@ section div {
 footer {
   background-color: burlywood;
   height: 150px;
+}
+
+.ad {
+  background-color: aqua;
+}
+
+@media print {
+  .ad {
+    display: none
+  }
+}
+
+/* This targets mobile phone devices which typically have screen width less than 600px */
+@media screen and (max-width: 600px) {
+  section {
+    background-color: blueviolet;
+  }
+}
+
+/* This targets tablet devices which typically have screen width less than 800px */
+@media screen and (min-width: 601px) and (max-width: 800px) {
+  section {
+    background-color: red;
+  }
 }

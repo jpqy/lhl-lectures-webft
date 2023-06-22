@@ -1,0 +1,60 @@
+@import '_variables';
+
+.new-class {
+  background-color: $primary-color;
+}
+
+.new-class-2 {
+  background-color: $primary-color;
+}
+
+.new-class-3 {
+  background-color: $primary-color;
+}
+
+// <div class="content">
+//   <h2>Hello World</h2>
+//   <div>
+//     <span>Join now!</span>
+//   </div>
+// </div>
+// .content h2 div span {
+//   background-color: aqua;
+// }
+
+// .content h2 div {
+//   font-size: medium;
+// }
+
+.content {
+  h2 {
+    div{
+      font-size: medium;
+      span {
+        background-color: aqua;
+      }
+    }
+  }
+}
+
+.header-style {
+  text-transform: capitalize;
+}
+
+.my-selector {
+  @extend .header-style;
+  color: blue
+}
+
+@mixin make-square($size) {
+  width: $size * 10;
+  height: $size * 10;
+}
+
+.small-square {
+  @include make-square(5)
+}
+
+.medium-square {
+  @include make-square(15)
+}
