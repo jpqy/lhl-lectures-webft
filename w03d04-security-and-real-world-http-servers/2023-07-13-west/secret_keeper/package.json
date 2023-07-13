@@ -1,0 +1,23 @@
+{
+  "name": "secret_keeper",
+  "version": "0.0.1",
+  "description": "An app that keeps secrets for users",
+  "main": "express_server.js",
+  "scripts": {
+    "start": "nodemon -e js,ejs -L express_server.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "bcrypt": "^4.0.1",
+    "body-parser": "^1.19.0",
+    "cookie-parser": "~1.4.4",
+    "cookie-session": "^1.4.0",
+    "ejs": "^3.0.1",
+    "express": "^4.17.1"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.2"
+  }
+}
