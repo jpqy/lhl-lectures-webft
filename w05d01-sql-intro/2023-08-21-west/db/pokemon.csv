@@ -1,0 +1,13 @@
+id,trainer_id,name,pokedex_number,pokedex_description,type,cuteness_rating,strength_rating
+1,1,Bulbasaur,1,A strange seed was planted on its back at birth. The plant sprouts and grows with this Pokémon.,Grass,3,2
+2,1,Charizard,6,Spits fire that is hot enough to melt boulders. Known to cause forest fires unintentionally.,Fire,1,5
+3,1,Squirtle,7,"After birth, its back swells and hardens into a shell. Powerfully sprays foam from its mouth.",Water,5,2
+4,1,Pikachu,25,"It keeps its tail raised to monitor its surroundings. If you yank its tail, it will try to bite you.",Electric,5,5
+5,3,Vulpix,37,"At the time of birth, it has just one tail. The tail splits from its tip as it grows older.",Fire,4,3
+6,2,Psyduck,54,It has mystical powers but doesn't recall that it has used them. That is why it always looks puzzled.,Water,5,5
+7,3,Geodude,74,"Commonly found near mountain trails, etc. If you step on one by accident, it gets angry.",Rock,1,3
+8,3,Onix,95,"As it grows, the stone portions of its body harden to become similar to a diamond, but colored black.",Rock,1,4
+9,1,Kingler,99,"The large pincer has 10000 hp of crushing power. However, its huge size makes it unwieldy to use.",Water,1,4
+10,2,Starmie,121,Its central core glows with the seven colors of the rainbow. Some people value the core as a gem.,Water,1,4
+11,1,Lapras,131,A gentle soul that can read the minds of people. It can ferry people across the sea on its back.,Water,4,5
+12,,Mewtwo,150,It was created by a scientist after years of horrific gene splicing and DNA engineering experiments.,Psychic,1,5
